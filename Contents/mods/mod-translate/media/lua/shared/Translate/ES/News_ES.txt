@@ -2,34 +2,34 @@
 [SECTION]
 [NODOT] <CENTRE><SIZE:large> Build 41 is the most fundamental and wide-ranging update that Project Zomboid has ever had. <BR><LINE> We intend it to be a stable foundation for us to build on for many years ahead. For this reason too,however, we anticipate a fairly long public beta while all the various issues presented to us by community testers are spotlit and remedied. <LINE> Some key features, primarily MP, are disabled in the beta build. <LINE> 
 <LEFT> New gameplay styles: Builder, Brawler and Survivor
-More deadly ëSurvivorí (Survival) gameplay balance ñ player can be dragged down by horde and feasted upon etc. 
+More deadly ‚ÄòSurvivor‚Äô (Survival) gameplay balance ‚Äì player can be dragged down by horde and feasted upon etc. 
 New survivor abilities: sitting, sneaking, sprinting, jogging, racking, reloading, climbing, fence-jumping, collapsing and much much more. 
 New combat, new weapons, new difficulty balance. 
-New character creation ñ many, many different new clothing options both on spawn and discoverable in the world as loot or on zombies. 
+New character creation ‚Äì many, many different new clothing options both on spawn and discoverable in the world as loot or on zombies. 
 New zombie behaviour: feasting on recent corpses, lolling against walls, falling over fences etc. 
 Blood system that progressively bloodies bodies and clothing of survivors and zombies 
-New injury system ñ movement and combat visibly hampered when injured. Lacerations now possible, an injury state that lies between bites and scratches. 
+New injury system ‚Äì movement and combat visibly hampered when injured. Lacerations now possible, an injury state that lies between bites and scratches. 
 Improved gunplay: green/red aiming outline, new guns, improved racking and reloading, increased gun loot spawn. 
-Zombie Death Scenes ñ zombies discovered in the situations in which people died. Prayer meetings, sports-viewing parties, survivor zeds wearing backpacks etc. 
-Situational zombie type/clothing and inventories ñ cop zeds in police station, firemen zeds in burnt buildings, Chef zeds in restaurant kitchens, bride and groom zeds at a wedding ceremony in church etc. 
+Zombie Death Scenes ‚Äì zombies discovered in the situations in which people died. Prayer meetings, sports-viewing parties, survivor zeds wearing backpacks etc. 
+Situational zombie type/clothing and inventories ‚Äì cop zeds in police station, firemen zeds in burnt buildings, Chef zeds in restaurant kitchens, bride and groom zeds at a wedding ceremony in church etc. 
 Clothing protection: different clothing provides different levels of protection from zombie attacks. 
 Visibly ripped and damaged clothing. 
 New Sims-style cutaway vision system. 
 Vehicle handling improvements, resizing and appearance tweaks. 
 Updated, remastered and improved Kentucky-themed soundtrack. Original music still in rotation, and also accessible through game options. 
 New SFX: weaponry, zombie moans etc. 
-New water visuals ñ including visible flow direction. 
+New water visuals ‚Äì including visible flow direction. 
 New puddle system during heavy rain. 
 Broken glass and related injuries. 
 Garage doors may be opened / closed and shake when hit. 
 New Challenge maps: Film Studio and Kingsmouth Vacation Island 
-3D Store Mannequins ñ can be dressed however you like 
+3D Store Mannequins ‚Äì can be dressed however you like 
 Working washing machines and driers 
 New game cursor 
 New level-up sound, and tweaked levelling system.
-Faint isometric aiming cursor that shows where youíre aiming in iso space. 
-New loot balance and loot balance system: houses and stores now have loot in the containers you would expect from real life ñ and not in a jumble. 
-Two tiers of loot priority ñ allowing for more realistic ëfillerí loot amidst the more valuable gameplay items. 
+Faint isometric aiming cursor that shows where you‚Äôre aiming in iso space. 
+New loot balance and loot balance system: houses and stores now have loot in the containers you would expect from real life ‚Äì and not in a jumble. 
+Two tiers of loot priority ‚Äì allowing for more realistic ‚Äòfiller‚Äô loot amidst the more valuable gameplay items. 
 Many, many general fixes including remedies for: floating cars, farming issues, inaudible house alarms, erosion shrubs blocking vehicles, desensitized survivors being panicked by crawlers and much more. 
 VISIBLE BACKPACKS!
 
@@ -41,8 +41,8 @@ Fixed lua error with climb-through-window context-menu command.
 Fixed solidtrans objects next to windowframes-without-windows being solid.
 Removed 3D-models and 3D-corpses options to fix invisible zombie bodies.
 Removed AutoZombieManager.java which adjusted the number of 3D models based on performance.
-Fixed exception with ìNew Roof-Hidingî = No option that causes black screen outside.
-Fixed ìwelcome to build 41î being off-center.
+Fixed exception with ‚ÄúNew Roof-Hiding‚Äù = No option that causes black screen outside.
+Fixed ‚Äúwelcome to build 41‚Äù being off-center.
 Possibly fixed rainbow-colored bodies on Mac OS.
 Possibly fixed failure to load bob/bob_idle animation on Windows using the Turkish (and potentially other) locales.
 
@@ -1187,7 +1187,7 @@ Sandbox options with non-default values are highlighted
 Added aiming at floor when you're aiming at a zombie on ground (only works when static for now, strafing will be the same) for every weapon.
 Added talkie walkie static models.
 Added ability to attach walkie-talkie on the belt having seen how awesome it is in Planetalgol's mod. (Check out his stuff!)
-Balanced all weapons range/angle, some weapons were missing angle (meaning you could hit from a 90∞ angle), some range were way too big.
+Balanced all weapons range/angle, some weapons were missing angle (meaning you could hit from a 90¬∞ angle), some range were way too big.
 Better bones masking for melee attacks, hips will now be included, so the melee attack will feel less weird.
 Can now uppercut/overhead attack while moving.
 Zombies will now thump a car with siren/alarm on, siren will eventually get destroyed by thumping zombies.
@@ -3443,11 +3443,11 @@ Allow deleting map_zone.bin from the "More..." load-game ui in debug mode.
 [SECTION][LOOT DISTRIBUTION CHANGES]
 Partially implemented new system As yet untouched loot tables remain the same as before.
 [NODOT]<BR>
-New more handcrafted loot placement / container system used for places like Giga-Mart and residential kitchens now applied to the rest of the map. Locations that previously spawned random grab-bags of loot (like Spiffoís) should have their contents sorted into relevant lists: If youíre looking for a bladed weapon or some fresh-cut chops, try looking around the kitchen of any place that sells meat (i.e, not a bakery) for the meat-cutting station. If itís baking supplies you need, look for where the sacks of flour are stored-- theyíll probably be next to a rolling pin.
+New more handcrafted loot placement / container system used for places like Giga-Mart and residential kitchens now applied to the rest of the map. Locations that previously spawned random grab-bags of loot (like Spiffo‚Äôs) should have their contents sorted into relevant lists: If you‚Äôre looking for a bladed weapon or some fresh-cut chops, try looking around the kitchen of any place that sells meat (i.e, not a bakery) for the meat-cutting station. If it‚Äôs baking supplies you need, look for where the sacks of flour are stored-- they‚Äôll probably be next to a rolling pin.
 [NODOT]<BR>
-Convenience stores, corner stores, and gas stations have had their shelvesí contents sorted so loose cigarettes no longer mix with the lollipops. Players who visit the pharmacy already have an idea of how the shelves are laid out: Some have snacks, some have drinks. Youíre less likely to find medicine in a gas station but itís not unheard of-- ditto car supplies in a Zippeeís. If you want the most of a particular kind of item, itís best to stick to the relevant business. Gas station tylenol is a ripoff anyway.
+Convenience stores, corner stores, and gas stations have had their shelves‚Äô contents sorted so loose cigarettes no longer mix with the lollipops. Players who visit the pharmacy already have an idea of how the shelves are laid out: Some have snacks, some have drinks. You‚Äôre less likely to find medicine in a gas station but it‚Äôs not unheard of-- ditto car supplies in a Zippee‚Äôs. If you want the most of a particular kind of item, it‚Äôs best to stick to the relevant business. Gas station tylenol is a ripoff anyway.
 [NODOT]<BR>
-Medical locations now sort their contents into tools, medicine, and doctor-related stuff like gloves, masks, and scrubs. Bars, beauty salons, butcher shops, cafes, and liquor stores all take the same approach. Giant ëcatch allí loot lists should eventually be replaced with tailored selections of items that are relevant to the location theyíre spawned in.
+Medical locations now sort their contents into tools, medicine, and doctor-related stuff like gloves, masks, and scrubs. Bars, beauty salons, butcher shops, cafes, and liquor stores all take the same approach. Giant ‚Äòcatch all‚Äô loot lists should eventually be replaced with tailored selections of items that are relevant to the location they‚Äôre spawned in.
 
 
 [SECTION][MOVABLES]
@@ -3965,7 +3965,7 @@ Sheet ropes can now be attached to metal railings on balconies. (Currently doesn
 Car wrecks appear less often, but can now be dismantled.
 Increased odds of curtains being already closed in houses.
 Holes will be added to clothing after the check for protection, meaning 100% protection will always defend you from a bite and lowered protection from a hole will only affect future attacks. Thanks to PseudonymousEd for pointing this out. 
-Shooting out of cars now has a more limited angle than the former 360∞.
+Shooting out of cars now has a more limited angle than the former 360¬∞.
 Player will now be unable to control the car while reloading. 
 Reload time increased while driving.
 Control of the car is also lost when shooting rifles, but not with pistols.
@@ -4381,7 +4381,7 @@ Fixed vehicle parts being damaged even though the mechanical skill requirement i
 Fixed Pipe Wrench not being usable for plumbing.
 Fixed water dispenser providing an infinite amount of water when placed over a river/lake.
 Fixed lit candle not being extinguished after it was unequipped.
-Fixed ìTake fuelî option becoming available everywhere in context menu after connecting a generator to a gas station.
+Fixed ‚ÄúTake fuel‚Äù option becoming available everywhere in context menu after connecting a generator to a gas station.
 Fixed a memory leak with font Texture objects.
 Fixed a memory leak with ScriptModule objects after reloading Lua/etc.
 Fixed garbage creation in IsoPuddlesCompute (38 Vector3f and 1 Vector2f per call).
@@ -4635,7 +4635,7 @@ Fixed a Lua error adding a saved splitscreen player in multiplayer.
 [NODOT]<BR>
 [NODOT]<SIZE:medium>New tutorial teaching you the very basics of the new movement and combat.
 [NODOT]<BR>
-[NODOT]<SIZE:medium>New character creation ñ many, many different new clothing options both on spawn and discoverable in the world as loot or on zombies.
+[NODOT]<SIZE:medium>New character creation ‚Äì many, many different new clothing options both on spawn and discoverable in the world as loot or on zombies.
 [NODOT]<BR>
 [NODOT]<SIZE:medium>New city to explore - Louisville added to the game world. <LINE> The whole world has had small additions, landscaping, and polish done.
 [NODOT]<BR>
@@ -4643,13 +4643,13 @@ Fixed a Lua error adding a saved splitscreen player in multiplayer.
 [NODOT]<BR>
 [NODOT]<SIZE:medium> Blood and dirt system that progressively bloodies bodies and clothing of survivors and zombies
 [NODOT]<BR>
-[NODOT]<SIZE:medium> New injury system ñ movement and combat visibly hampered when injured. Lacerations now possible, an injury state that lies between bites and scratches.
+[NODOT]<SIZE:medium> New injury system ‚Äì movement and combat visibly hampered when injured. Lacerations now possible, an injury state that lies between bites and scratches.
 [NODOT]<BR>
 [NODOT]<SIZE:medium> Improved gunplay: green/red target outline while aiming, increased gun loot spawn.
 [NODOT]<BR>
 [NODOT]<SIZE:medium> Randomized environmental storytelling elements. <LINE> Death Scenes, zombies discovered in the situations in which people died. Prayer meetings, sports-viewing parties, survivor zeds wearing backpacks etc.
 [NODOT]<BR>
-[NODOT]<SIZE:medium> Situational zombie type/clothing and inventories ñ cop zeds in police station, firemen zeds in burnt buildings, Chef zeds in restaurant kitchens, bride and groom zeds at a wedding ceremony in church etc.
+[NODOT]<SIZE:medium> Situational zombie type/clothing and inventories ‚Äì cop zeds in police station, firemen zeds in burnt buildings, Chef zeds in restaurant kitchens, bride and groom zeds at a wedding ceremony in church etc.
 [NODOT]<BR>
 [NODOT]<SIZE:medium>Clothing protection: different clothing provides different levels of protection from zombie attacks.
 [NODOT]<BR>
@@ -4670,24 +4670,24 @@ Fixed a Lua error adding a saved splitscreen player in multiplayer.
 [NODOT]<BR>New Gameplay Styles <LINE> Apocalypse: Stealth focus. Short lifespan. Combat best avoided and picked selectively. <LINE> Survivor: Powerful combat. Longer Lifespan. A challenging playstyle based on PZ's previous Survival mode of Build 40. <LINE> Builder: Construction, Exploration, and Farming focus. A more relaxed experience.
 [NODOT]<BR>New Challenges <LINE> Kingsmouth - A separate challenge map, Kingsmouth puts you on a paradise island vacation resort.  <LINE> Studio - Try to survive as the Knox Infection hits the dream factory. Some of these zombies are not like the others.
 [NODOT]<BR>New ingame-map system. 
-[NODOT]New inventory slots ñ belts and holsters now give quick equip slots. Weapons can be attached to the character's back.
+[NODOT]New inventory slots ‚Äì belts and holsters now give quick equip slots. Weapons can be attached to the character's back.
 [NODOT]New thermal / body temperature system. 
 [NODOT]New Tailoring system for clothing repairs.
 [NODOT]New Fitness / Exercise system.
-[NODOT]New emote system ñ Hold Q to bring up the Radial Menu for Emotes.
-[NODOT]New water visuals ñ including visible flow direction. 
+[NODOT]New emote system ‚Äì Hold Q to bring up the Radial Menu for Emotes.
+[NODOT]New water visuals ‚Äì including visible flow direction. 
 [NODOT]New puddle system during heavy rain.
 [NODOT]New fog visuals.
 [NODOT]New levelling system.
 [NODOT]New VHS, and CDs system. 
 [NODOT]Broken glass and related injuries.
-[NODOT]3D Store Mannequins ñ can be dressed however you like
+[NODOT]3D Store Mannequins ‚Äì can be dressed however you like
 [NODOT]Working washing machines and driers
 [NODOT]Server-side saving: MP save system now in a server-side database. Offline SP-side, also means no more lost cars via irl power outages.
 [NODOT]New radial menu for reloading firearms.
 [NODOT]New game cursor
-[NODOT]New loot balance and loot balance system: houses and stores now have loot in the containers you would expect from real life ñ and not in a jumble.
-[NODOT]Faint isometric aiming cursor that shows where youíre aiming in iso space.
+[NODOT]New loot balance and loot balance system: houses and stores now have loot in the containers you would expect from real life ‚Äì and not in a jumble.
+[NODOT]Faint isometric aiming cursor that shows where you‚Äôre aiming in iso space.
 [NODOT]A gigantic list of fixes and QoL improvements.
 
 
@@ -5539,7 +5539,7 @@ Container items now grouped together into their type in the context menu, so you
 Players now able to stack and unstack logs on the ground
 Cars now remember their cruise control setting 
 Breaking vehicle windows now produces broken glass
-Decrease zed attraction volume of ìremove broken glass action"
+Decrease zed attraction volume of ‚Äúremove broken glass action"
 Updated and fixed item categorizations
 Updated evolvedrecipes.txt and items_food.txt.
 Removed Cookable:true from the Burger evolved recipe.
