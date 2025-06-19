@@ -1,7 +1,7 @@
 version=1
 id=3503656045
 title=Mod Translate
-description=Vanilla ES and AR translations
+description=Vanilla ES and AR translations
 description=Build 41.78.16
 tags=Build 41;Language/Translation
 visibility=public
