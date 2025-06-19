@@ -1,5 +1,5 @@
 EvolvedRecipeName_AR = {
-    EvolvedRecipeName_Base.CannedBologneseOpen = "Lata de salsa boloñesa abierta",
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Lata de salsa boloÃ±esa abierta",
     EvolvedRecipeName_Base.CannedCornOpen = "Lata de maiz abierta",
     EvolvedRecipeName_Base.CannedPotatoOpen = "Lata de papas abierta",
     EvolvedRecipeName_Base.CannedCornedBeefOpen = "Lata de carne abierta",
@@ -8,5 +8,5 @@ EvolvedRecipeName_AR = {
     EvolvedRecipeName_Base.CannedChiliOpen = "Lata de chile abierta",
     EvolvedRecipeName_Base.CannedPeasOpen = "Lata de arvejas abierta",
     EvolvedRecipeName_Base.CannedCarrotsOpen = "Lata de zanaorias abierta",
-    EvolvedRecipeName_Base.Teabag2 = "Saco de té",
+    EvolvedRecipeName_Base.Teabag2 = "Saco de tÃ©",
 }
