@@ -1,0 +1,96 @@
+{
+    "credits_start": " <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <LINE> <CENTRE> <SIZE:credits2> PROJECT ZOMBOID HA SIDO CREADO CON ORGULLO POR <LINE> <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/TheIndieStoneLogo_credits.png> <LINE> ",
+
+    "credits_role_group.executives_and_leadership": "DIRECTIVOS Y LIDERAZGO",
+    "credits_role.head_raccoon": "Mapache Principal",
+    "credits_role.founders": "Fundadores",
+    "credits_role.art_director": "Director de Arte",
+    "credits_role.technical_director": "Director Técnico",
+    "credits_role.production_director": "Director de Producción",
+    "credits_role.design_director": "Director de Diseño",
+
+    "credits_role_group.music_by": "Banda sonora original compuesta por",
+    "credits_role.music_originally_composed_by": "",
+
+    "credits_role_group.programming_team": "EQUIPO DE PROGRAMACIÓN",
+    "credits_role.lead_gameplay_programmer": "Programador Principal de Jugabilidad",
+    "credits_role.lead_technical_programmer": "Programador Técnico Principal",
+    "credits_role.engineers": "Ingenieros",
+    "credits_role.additional_code": "Código Adicional",
+
+    "credits_role_group.production": "PRODUCCIÓN",
+    "credits_role.producer": "Productor",
+    "credits_role.associate_producer": "Productor Asociado",
+
+    "credits_role_group.creative_team": "EQUIPO CREATIVO",
+    "credits_role.artists": "Artistas",
+    "credits_role.environmental_artists": "Artistas de Entornos",
+    "credits_role.concept_artist": "Artista Conceptual",
+    "credits_role.graphic_designer": "Diseñador Gráfico",
+    "credits_role.marketing_artist": "Artista de Marketing",
+    "credits_role.additional_artists": "Artistas Adicionales",
+    "credits_role.writer": "Escritores",
+
+    "credits_role_group.research_and_development": "INVESTIGACIÓN Y DESARROLLO",
+    "credits_role.research_and_development": "",
+
+    "credits_role_group.quality_assurance": "CONTROL DE CALIDAD",
+    "credits_role.lead_qa_tis": "Responsable de Control de Calidad",
+    "credits_role.senior_qa": "Tester Sénior de QA",
+    "credits_role.quality_assurance_testers": "Testers de Control de Calidad",
+
+    "credits_role_group.administration": "ADMINISTRACIÓN",
+    "credits_role.hr": "Recursos Humanos",
+    "credits_role.system_administrator": "Administrador de Sistemas",
+    "credits_role.junior_system_administrator": "Administrador de Sistemas Junior",
+    "credits_role.backup_sysadmin": "Administrador de Sistemas de Respaldo",
+    "credits_role.tech_support": "Soporte Técnico",
+    "credits_role.localisation_lead": "Responsable de Localización",
+    "credits_role.community_managers": "Gestores de Comunidad",
+    "credits_role.community_moderators": "Moderadores de Comunidad",
+    "credits_role.operations_manager": "Gerente de Operaciones",
+    "credits_role.finance": "Finanzas",
+
+    "credits_role_group.tea": "The Tea Division",
+    "credits_role.director": "Director",
+    "credits_role.senior_programmer": "Programador Sénior",
+    "credits_role.rendering_programmer": "Programador de Renderizado",
+    "credits_role.lead_programmer": "Programador Principal",
+    "credits_role.ui_designer": "Diseñador de UI",
+    "credits_role.quality_assurance": "Control de Calidad",
+
+    "credits_role_group.vertex_break": "VERTEX BREAK",
+    "credits_role.senior_software_developer": "Desarrollador de Software Sénior",
+    "credits_role.middle_software_developer": "Desarrollador de Software Intermedio",
+    "credits_role.lead_qa": "Responsable de QA",
+    "credits_role.qa": "QA",
+
+    "credits_role_group.sound_arrival": "SONIDO - ARRIVAL",
+    "credits_role.lead_sound_designer_arrival": "Diseñador de Sonido Principal",
+    "credits_role.technical_sound_designer_arrival": "Diseñador de Sonido Técnico",
+    "credits_role.sound_supervisor": "Supervisor de Sonido",
+    "credits_role.sound_designer": "Diseñador de Sonido",
+    "credits_role.associate_sound_designer": "Diseñador de Sonido Asociado",
+    "credits_role.interactive_music_composer": "Compositor de Música Interactiva",
+    "credits_role.senior_producer": "Productor Sénior",
+    "credits_role.head_producer": "Productor Principal",
+
+    "credits_role_group.general_arcade": "GENERAL ARCADE",
+    "credits_role.general_arcade": "",
+
+    "credits_role_group.contributors": "COLABORADORES",
+    "credits_role.special_infected": "Infectados Especiales",
+    "credits_role.special_thanks": "Agradecimientos Especiales",
+    "credits_role.contributors": "Colaboradores",
+    "credits_role.wiki_admin": "Administrador de la Wiki",
+    "credits_role.wiki_editors": "Editores de la Wiki",
+
+    "credits_role_group.localization": "LOCALIZACIÓN <LINE> <LINE> <SIZE:medium> La comunidad de PZ <LINE> (Los créditos de traductores individuales se encuentran en las Opciones de Traducción)",
+    "credits_role.localization": "",
+
+    "credits_role_group.tools": " <SIZE:credits2> Tools <SIZE:medium> <LINE> <LINE> Audio engine : FMOD Studio by Firelight Technologies <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/FMOD_credits.png> <LINE> <LINE> <LINE> Uses Bink Video. Copyright (C) 1997-2026 by Epic Games Tools LLC <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/Bink_credits.png>",
+
+    "credits_role_group.in_loving_memory_of": "EN MEMORIA DE <LINE> ",
+    "credits_role.in_loving_memory_of": ""
+
+}
