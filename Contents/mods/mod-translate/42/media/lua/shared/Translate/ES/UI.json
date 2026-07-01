@@ -272,7 +272,6 @@
     "UI_trait_MechanicsDesc": "Tiene un conocimiento detallado de los modelos de vehículos comunes y comerciales, y de sus reparaciones.",
     "UI_trait_axeman": "Señor de las hachas",
     "UI_trait_Cook": "Cocinar",
-    "UI_prof_Metalworker": "Obrero metalúrgico",
     "UI_profdesc_metalworker": "Puede soldar metal forjado para crear objetos y barricadas.",
     "UI_prof_Smither": "Herrero",
     "UI_prof_SmitherDesc": "Puede construir un horno de piedra y manipular metales.",
